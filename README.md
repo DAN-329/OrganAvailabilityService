@@ -36,7 +36,7 @@ alt="Logo" width="33%">
 <img src="github-images/oas4.png" 
 alt="Logo" width="33%" >
 <img src="github-images/oas3.png" 
-alt="Logo" width="33%"  >
+alt="Logo" width="31%"  >
 
 <br/>
 
